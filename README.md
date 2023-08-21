@@ -1,6 +1,6 @@
 # diffusion_course
 
-从https://github.com/huggingface/diffusion-models-class/tree/main复制下来的demo代码，用于自学diffusion process。
+从`https://github.com/huggingface/diffusion-models-class/tree/main`复制下来的demo代码，用于自学diffusion process。
 
 <br>
 
