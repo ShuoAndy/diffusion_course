@@ -1,0 +1,8 @@
+# Ignore .png files
+*.png
+
+# Ignore .ipynb files
+*.ipynb
+
+# Ignore mnist data folder
+mnist/
